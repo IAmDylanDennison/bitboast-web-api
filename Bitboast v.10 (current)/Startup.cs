@@ -13,6 +13,7 @@ namespace Bitboast_v._10__current_
 {
     public class Startup
     {
+        
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
