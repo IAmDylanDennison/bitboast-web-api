@@ -10,10 +10,13 @@ namespace Bitboast_v._10__current_.Models
     {
         [JsonPropertyName("userid")]
         public int Userid { get; set; }
+
         [JsonPropertyName("username")]
         public string Username { get; set; }
+
         [JsonPropertyName("password")]
         public string Password { get; set; }
+
         [JsonPropertyName("email")]
         public string Email { get; set; }
 
